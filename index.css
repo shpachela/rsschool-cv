@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    margin: 0 auto;
+    width: 1024px;
+    font-family: 'Markazi Text', serif;
+    font-size: 25px;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-transform: uppercase;
+  }
+  
+  header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 480px;
+    background: url(img/fon.jpg);
+    background-position: center;
+    color: white;
+  }
+  
+  header p {
+    color: rgb(192, 192, 192);
+  }
+  
+  .avatar>img {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    overflow: hidden;
+  }
+  
+  main {
+    display: flex;
+  }
+  
+
+  
+  section {
+    width: 35%;
+    color: rgb(105, 103, 103);
+  }
+  
+  section div {
+    box-sizing: border-box;
+    height: 300px;
+    padding: 25px;
+  }
+  
+  
+  h2 {
+    margin-bottom: 40px;
+  }
+  
+  article {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    box-sizing: border-box;
+    padding: 30px;
+    background-color: rgba(156, 173, 165, 0.5);
+    color: rgb(105, 103, 103);
+  }
+  
+  article div {
+    padding: 20px;
+  }
+  
+  div.examples {
+    display: inline-flex;
+  }
+  
+  h4 {
+    font-variant: small-caps;
+    font-weight: normal;
+  }
+  
+  div h3 {
+    padding-right: 30px;
+    padding-top: 20px;
+  }
+  
+  
+  
+ 
+  
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
