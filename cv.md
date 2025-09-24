@@ -4,7 +4,7 @@
 # Dima Shpyrkovich 
 
 2 .
-__E-mail__: Shpyrkovich.Dima@gmail.com. 
+__E-mail__: Shpyrkovich.dima@gmail.com. 
 
 3.
       _I graduated from the College of Railway Transport as an assistant driver of a diesel locomotive, electric locomotive. After 3 years of work, I quit due to a difficult schedule and decided to study as a programmers.
